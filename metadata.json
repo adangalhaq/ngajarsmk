@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Ngajar - Aplikasi Jurnal Mengajar",
+  "description": "Sistem Informasi Jurnal Mengajar SMKN 1 Tambelang",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
